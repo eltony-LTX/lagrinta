@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: la-grinta
-        password: tonyizi1002
+        password: tony1002
         server-dir : public_html/
